@@ -28,4 +28,8 @@ body {
     z-index: 1;
     width: 90%;
     max-width: 600px;
+    padding: 2rem;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
 }
