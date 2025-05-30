@@ -1,0 +1,27 @@
+button:hover {
+    background: #45a049;
+}
+.weather-info {
+    text-align: center;
+}
+@media (max-width: 768px) {
+    .container {
+        padding: 1.5rem;
+    }
+
+    .location {
+        font-size: 2rem;
+    }
+
+    .temperature {
+        font-size: 3rem;
+    }
+
+    .search-box {
+        flex-direction: column;
+    }
+
+    button {
+        width: 100%;
+    }
+}
