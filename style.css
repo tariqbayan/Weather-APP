@@ -42,3 +42,10 @@ body {
     gap: 10px;
     margin-bottom: 2rem;
 }
+
+input[type="text"] {
+    flex: 1;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+}
